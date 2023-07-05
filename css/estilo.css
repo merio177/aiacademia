@@ -195,6 +195,10 @@ section {
     font-size: 0.82rem;
     font-weight: 500;
 }
+.profile-suggestion {
+    font-size: 0.7rem;
+    font-weight: 300;
+}
 .footer {
     display: flex;
     justify-content: space-between;
